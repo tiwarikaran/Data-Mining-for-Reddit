@@ -3,3 +3,6 @@ Basic Data Mining for Reddit can be super useful if you want to create custom da
 
 Run this before running the Python Script
 `pip install praw`
+
+![Output](Pandas_Output.png)
+
